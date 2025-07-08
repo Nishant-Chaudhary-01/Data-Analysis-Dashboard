@@ -25,3 +25,21 @@ To analyze and visualize YouTube channel performance data, providing actionable 
 
 ![YOUTUBE DASHBOARD](https://github.com/user-attachments/assets/7f5f2cdd-38c7-48b2-a8f4-c7d5193b1196)
 
+## Project Insights
+
+- View Growth: There was a major spike in total views during March and June, indicating high-performing content or seasonal trends.
+
+- Top Performer: iPhone 15 Review is the most viewed video, showing strong audience interest in tech reviews.
+
+- Revenue Leaders: Ultimate Gaming Setup Tour and iPhone 15 Review generated the highest revenue, aligning views with monetization success.
+
+- Watch Time vs Views: Videos like Unboxing Samsung Galaxy Z Fold 6 and 10-Minute Workout for Beginners have both high watch time and views, suggesting engaging, long-format content.
+
+- Subscriber Gain: Most subscriber growth happened within the 2K–4K and 6K–8K ranges, indicating a few standout videos driving most of the growth.
+
+## Final Conclusion
+
+This YouTube performance dashboard highlights the content strategies driving views, revenue, and subscriber growth. High-performing tech and fitness videos are key growth drivers, and consistent publishing around March–June appears to boost engagement. These insights can guide future video topics, posting schedules, and monetization efforts.
+
+
+
